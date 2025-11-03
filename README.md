@@ -6,6 +6,8 @@ This repo is your starting point.
 ## Motivation
 This was inspired by recent Stanford research claiming that fine-tuning can be easily beaten by in-context and context driven work - this repo has ALL the context, right at your fingertips. [(link)](https://venturebeat.com/ai/fine-tuning-vs-in-context-learning-new-research-guides-better-llm-customization-for-real-world-tasks)
 
+There are now THOUSANDS of AI Tools that can provide customer service and developer experience help, but NONE of them can run your code. At the same time, Claude Code, Cursor, and Codex are rapidly saturating the market, so why do developers need to read docs?
+
 This project contains a clean and simple specialized agent that learns via ICL to provide improved handling of metorial usage questions, and to implement them in real time.  
 
 ## What's included:
@@ -13,6 +15,10 @@ This project contains a clean and simple specialized agent that learns via ICL t
 + Subagent management
 + Q&A Manager
 + Drafting & Publishing Toolkit
+
+## Demo
+The following video shows dozens of Haiku 4-5 subagents ripping through the docs and building custom, targetted docs and example code, right on your computer. Try it yourself with the stpes below!
+![Demo Video](demo-video-compressed.mp4)
 
 ## How to use this repo
 1. Clone this repo 
@@ -35,7 +41,7 @@ Your agents will each do a small part of the larger work, whether it's research,
 Haiku 4.5 subagents are low-context, and will be narrowly scoped, which provides a major improvment  
 
 ## Using Tribe
-***Note: We recommend using [Tribe](https://tribecode.ai) to use this repo, so you can see what all the subagents are doing.*** 
+***Note: We recommend using [Tribe](https://tribecode.ai) to use this repo, so you can see what all the subagents are doing.***
 
 To get Tribe:
 ```sh

@@ -1,0 +1,36 @@
+I've researched and compiled comprehensive advanced integration patterns for Metorial covering:
+
+## Key Components Documented:
+
+### 1. **SDK Usage Examples**
+- Core SDK setup with authentication
+- Advanced session management 
+- File upload and management
+- Rate limiting and request handling
+
+### 2. **Webhook Implementations**
+- Express.js webhook handler with signature verification
+- Next.js API route integration
+- Event queue processing with Bull
+- Webhook event processing patterns
+
+### 3. **Error Handling Strategies**
+- Comprehensive error classification system
+- Advanced retry mechanisms with exponential backoff
+- Circuit breaker implementation
+- Error recovery and fallback strategies
+
+### 4. **Performance Optimization Techniques**
+- Advanced caching with LRU and write-back policies
+- Connection pooling and request optimization
+- Request batching and deduplication
+- Performance monitoring and metrics collection
+
+The documentation includes:
+- Working code samples for all patterns
+- Production-ready implementations
+- Best practices and recommendations
+- Testing patterns and utilities
+- Configuration management examples
+
+Each section provides practical, implementable code that follows modern software engineering practices including proper error handling, performance optimization, and observability.

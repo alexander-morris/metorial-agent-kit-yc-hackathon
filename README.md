@@ -18,7 +18,10 @@ This project contains a clean and simple specialized agent that learns via ICL t
 
 ## Demo
 The following video shows dozens of Haiku 4-5 subagents ripping through the docs and building custom, targetted docs and example code, right on your computer. Try it yourself with the stpes below!
-![Demo Video](demo-video-compressed.mp4)
+
+https://github.com/user-attachments/assets/demo-video-compressed.mp4
+
+<video src="demo-video-compressed.mp4" controls></video>
 
 ## How to use this repo
 1. Clone this repo 

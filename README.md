@@ -43,4 +43,7 @@ npx @_xtribe/cli@latest
 tribe
 ```
 
+This will show you all the agent processes as they run, and can help ensure you get the best results.
+
 ## Benchmarks & Comparison 
+When run in parallel, this solution acheives a 10x performance improvement on speed for both research and complex coding tasks.
